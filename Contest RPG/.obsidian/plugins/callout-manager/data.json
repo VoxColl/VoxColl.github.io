@@ -1,0 +1,94 @@
+{
+  "callouts": {
+    "custom": [
+      "ability-social-type",
+      "ability-buff-type",
+      "ability-fate-type",
+      "ability-intellect-type",
+      "ability-essence-type",
+      "ability-combat-type",
+      "ability-physical-type",
+      "keyword",
+      "keyword-soul"
+    ],
+    "settings": {
+      "ability-social-type": [
+        {
+          "changes": {
+            "icon": "lucide-speech",
+            "color": "97, 194, 139"
+          }
+        }
+      ],
+      "ability-buff-type": [
+        {
+          "changes": {
+            "icon": "lucide-blend",
+            "color": "166, 136, 191"
+          }
+        }
+      ],
+      "ability-fate-type": [
+        {
+          "changes": {
+            "icon": "lucide-alarm-clock-off",
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "ability-intellect-type": [
+        {
+          "changes": {
+            "icon": "lucide-pencil",
+            "color": "87, 165, 255"
+          }
+        }
+      ],
+      "ability-essence-type": [
+        {
+          "changes": {
+            "icon": "lucide-atom",
+            "color": "0, 158, 69"
+          }
+        }
+      ],
+      "ability-combat-type": [
+        {
+          "changes": {
+            "icon": "lucide-swords",
+            "color": "209, 112, 0"
+          }
+        }
+      ],
+      "ability-physical-type": [
+        {
+          "changes": {
+            "icon": "lucide-biceps-flexed",
+            "color": "233, 89, 73"
+          }
+        }
+      ],
+      "keyword": [
+        {
+          "changes": {
+            "icon": "lucide-brain",
+            "color": "163, 206, 255"
+          }
+        }
+      ],
+      "keyword-soul": [
+        {
+          "changes": {
+            "icon": "lucide-aperture",
+            "color": "255, 128, 159"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

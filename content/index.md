@@ -1,5 +1,5 @@
 ---
-title: VoxColl
+title: Contest RPG
 ---
 
 I am currently writing an rpg system. This site is purely to transmit it to the people testing and playing it for now. 
@@ -10,7 +10,7 @@ Let me know what you think and I might integrate it.
 
 Characters
 
-- [[1.1 Character Creation]]
+- [[1.1 Character Creation]] {Major Rework Underway}
 
 - [[1.2 Character Attributes]]
 
@@ -28,7 +28,7 @@ Abilities
 
 - [[2.3 Choice Ability List]]
 
-Equipment and Magic Items
+Equipment and Magic Items {Under MAJOR Construction}
 
 - [[3.1 Building Equipment]]
 

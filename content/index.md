@@ -2,7 +2,7 @@
 title: Contest RPG
 ---
 
-I am currently writing an rpg system. This site is purely to transmit it to the people testing and playing it for now. 
+I am currently writing an rpg system. This site is purely to transmit it to the people testing and playing it for now. The "Balance" is all over the place, don't worry about it, we're testing it to be fun first.
 
 If you've stumbled across this somehow, find my social platforms. They're usually @voxcoll.
 

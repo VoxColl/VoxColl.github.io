@@ -10,7 +10,7 @@ Let me know what you think and I might integrate it.
 
 Characters
 
-- [[1.1 What is a Character]] {Pending Playtest before construction]
+- [[1.1 What is a Character]] | {Pending Playtest before construction]
 
 - [[1.2 Character Attributes]]
 
@@ -20,7 +20,7 @@ Characters
 
 - [[1.5 Character Resources]]
 
-- [[1.6 Character Creation]] {Major Rework Underway}
+- [[1.6 Character Creation]] | {Major Rework Underway}
 
 Abilities
 
@@ -28,9 +28,9 @@ Abilities
 
 - [[2.2 Free Ability List]]
 
-- [[2.3 Choice Ability List]]
+- [[2.3 Choice Ability List]] | {More Content Needed}
 
-Equipment and Magic Items {Under MAJOR Construction}
+Equipment and Magic Items | {Under MAJOR Construction}
 
 - [[3.1 Building Equipment]]
 

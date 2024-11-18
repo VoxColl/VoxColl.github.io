@@ -10,7 +10,7 @@ Let me know what you think and I might integrate it.
 
 Characters
 
-- [[1.1 Character Creation]] {Major Rework Underway}
+- [[1.1 What is a Character]] {Pending Playtest before construction]
 
 - [[1.2 Character Attributes]]
 
@@ -19,6 +19,8 @@ Characters
 - [[1.4 Character Keywords]]
 
 - [[1.5 Character Resources]]
+
+- [[1.6 Character Creation]] {Major Rework Underway}
 
 Abilities
 

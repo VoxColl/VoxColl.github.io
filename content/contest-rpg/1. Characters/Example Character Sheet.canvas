@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"9c361a72fa40f30d","type":"group","x":-760,"y":-1580,"width":1180,"height":1840,"color":"#9c7c7c","label":"Mr. Jack Foster | Lvl: 1"},
+		{"id":"6bb39858faff6c3a","type":"group","x":-220,"y":-1520,"width":620,"height":634,"color":"4","label":"History"},
+		{"id":"6a499b69c846f926","type":"group","x":-740,"y":-1140,"width":512,"height":634,"color":"6","label":"Attributes"},
+		{"id":"fcf779216791b7af","type":"group","x":-740,"y":-460,"width":340,"height":680,"label":"Resources"},
+		{"id":"833467341a538a23","type":"group","x":-740,"y":-1520,"width":512,"height":340,"color":"1","label":"Portrait"},
+		{"id":"51690b291c940cd3","type":"group","x":-380,"y":-460,"width":400,"height":400,"label":"Keywords"},
+		{"id":"cddecc2cae1c3c73","type":"text","text":">[!abstract] Example Character History | Mr. Foster.\n>\n>In the early morning hours of the weekend, Mr. Foster, the local schoolteacher, finds the same old chain with a small jewelled pendant on it. \n>He puts on his boots, picks up his favourite fishing rod and heads out for what should be a peaceful day.\n>\n>>You know what you are.\n>>\n>>_I know._\n>\n>He walks to the local river and finds his spot, relishing the warm air on his weary bones.\n>Mr. Cuttle is here too. He always tries to chat up a storm, while Mr. Foster just sits patiently until he has a bite on the end of his line.\n>\n>>You know what you've done.\n>>\n>>_I know._\n>\n>He tries to enjoy the company, he truly does... but... \n>\n>>83...\n>>\n>>_I know._\n>\n>A bite! Mr. Cuttle is almost more excited than Mr. Foster is, but with a steely focus, Mr. Foster is already reeling in what seems to be the largest fish of his season so far.\n>\n>>78 men. 5 Women.\n>>\n>>_There were no children._\n>\n>The reeling gets faster. There were no children.\n>\n>>There were no children?\n>>\n>>_..._\n>\n>Mr. Foster is in state of such zeal at the thought of his potential bounty and night of good eating, he doesn't notice Mr. Cuttle fall silent. \n>\n>>Are you sure there were no children?\n>>\n>>_Shut up._\n>\n>The line breaks. Mr. Foster curses in such a foul manner, the reaction of Mr. Cuttle would ordinarily be one of disgust. Mr. Foster flinches in expectation of the dressing down he's about receive about \"proper manners\".\n>\n>He waits.\n>\n>He waits.\n>\n>He turns to see why Mr. Cuttle hasn't immediately started swatting him, and-\n>\n>>What about that one time in the Citadel?\n>>\n>>_THERE WAS NO TIME IN THE CITADEL._\n>\n>\"Mr. Cuttle?\"\n>\n>>Tobias Wayne was his name, was it not?\n>>\n>>_..._\n>>\n>>Wasn't it?\n>>\n>>_...yes._\n>>\n>>Oh, but you didn't kill him, did you?\n>>\n>>_No._\n>>\n>>No. You just... left him there. All alone in the muck of his family. Never mind that they were actual, decent, upstanding citizens of the Citadel-\n>>\n>>_please stop_\n>>\n>>NEVER MIND... that you'd made all sorts of promises to your _\"Dear Mr. Cuttle\"_ there.\n>>\n>>_Stop._\n>>\n>>Never mind that you'd promised him a son.\n>\n>The body of Mr. Cuttle lay still. \n>\n>\"Hello, Uncle Jack!\" said the young man currently standing over the same body.\n>\n>>You knew this would happen.\n>>\n>>_I know..._\n>\n>With a whipcrack of his rod, Mr. Jack Foster strikes the young man across the face and leaps at him, his slight frame belying the wiry strength he still possesses.\n>The young man is knocked off his feet, away from the rapidly cooling body of Mr. Cuttle, into the tall grass nearby.\n>A terrible darkness comes across the face of Mr. Foster, as do the hammerfist blows onto the young man's sternum, skull, jaw, teeth- \n>\n>>Never mind that we were your family too-\n>>\n>>_SHUTUP_\n>\n>Mr. Foster picks up a rock from the riverside-\n>\"WAIT-\"\n>\n>.\n>\n>.\n>\n>.\n>\n>\n>An hour later, Mr. Foster walks into the house he and Mr. Cuttle share. Shared. He sets down the two bodies. He finds his things, packs what he can, leaves the jewelled pendant around the shattered neck of Tobias Wayne... \n>\n>…and sets the house ablaze.\n>\n>>84...\n>>\n>>_85.","x":-200,"y":-1506,"width":582,"height":606},
+		{"id":"faaad44553e4847c","type":"text","text":"Tenacity:","x":-488,"y":-1036,"width":250,"height":60},
+		{"id":"c225a338992087dc","type":"text","text":"***PSYCHE***","x":-728,"y":-956,"width":160,"height":60},
+		{"id":"527bbe029c847f50","type":"text","text":"Acuity:","x":-488,"y":-956,"width":250,"height":60},
+		{"id":"4cd2922f903f6e74","type":"text","text":"Fortitude:","x":-488,"y":-886,"width":250,"height":60},
+		{"id":"d7146dba827bc2d6","type":"text","text":"***INFLUENCE***","x":-728,"y":-801,"width":160,"height":60},
+		{"id":"01dd3be44f4e4ce6","type":"text","text":"Speech:","x":-488,"y":-801,"width":250,"height":60},
+		{"id":"552f8a80974472a1","type":"text","text":"Silence:","x":-488,"y":-731,"width":250,"height":60},
+		{"id":"0123b991189bcac5","type":"text","text":"***SOUL***","x":-728,"y":-636,"width":160,"height":60},
+		{"id":"fcfedb57e93eb250","type":"text","text":"Rend:","x":-488,"y":-636,"width":250,"height":60},
+		{"id":"d15f2a681842fcee","type":"text","text":"***MIGHT***","x":-728,"y":-1106,"width":160,"height":60},
+		{"id":"01a18718ec5dc8f5","type":"text","text":"Will:","x":-488,"y":-566,"width":250,"height":60},
+		{"id":"a5390f62e42093e9","type":"text","text":"Aggression:","x":-488,"y":-1106,"width":250,"height":60},
+		{"id":"03c83717ceea66ac","type":"file","file":"istockphoto-538861788-612x612.jpg","x":-704,"y":-1491,"width":432,"height":288}
+	],
+	"edges":[
+		{"id":"517f1006f5c86b31","fromNode":"d15f2a681842fcee","fromSide":"right","toNode":"a5390f62e42093e9","toSide":"left"},
+		{"id":"8ffb768c62f29b1c","fromNode":"d15f2a681842fcee","fromSide":"right","toNode":"faaad44553e4847c","toSide":"left"},
+		{"id":"64ffe5149627ca6c","fromNode":"c225a338992087dc","fromSide":"right","toNode":"527bbe029c847f50","toSide":"left"},
+		{"id":"74e64f67d765d4ab","fromNode":"c225a338992087dc","fromSide":"right","toNode":"4cd2922f903f6e74","toSide":"left"},
+		{"id":"7f4ac03f13ff8d9b","fromNode":"d7146dba827bc2d6","fromSide":"right","toNode":"01dd3be44f4e4ce6","toSide":"left"},
+		{"id":"1fbdea0c9492347e","fromNode":"d7146dba827bc2d6","fromSide":"right","toNode":"552f8a80974472a1","toSide":"left"},
+		{"id":"e9e84686cbf66223","fromNode":"0123b991189bcac5","fromSide":"right","toNode":"fcfedb57e93eb250","toSide":"left"},
+		{"id":"43822c7c3c201c6b","fromNode":"0123b991189bcac5","fromSide":"right","toNode":"01a18718ec5dc8f5","toSide":"left"}
+	]
+}

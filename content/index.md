@@ -10,7 +10,7 @@ Let me know what you think and I might integrate it.
 
 Characters
 
-- [[1.1 What is a Character]] | {Pending Playtest before construction]
+- [[1.1 The System Intention]] 
 
 - [[1.2 Character Attributes]]
 
@@ -28,7 +28,7 @@ Abilities
 
 - [[2.2 Free Ability List]]
 
-- [[2.3 Choice Ability List]] | {More Content Needed}
+- [[2.3 Choice Ability List]] | {More Content Incoming}
 
 Equipment and Magic Items | {Under MAJOR Construction}
 
@@ -44,9 +44,9 @@ Running The Game
 
 - [[4.1 Rolling The Dice]]
 
-- [[4.2 Calling for Contests and Thresholds]]
+- [[4.2 Roles of the Runner and Players]]
 
-- [[4.3 Running Combat]]
+- [[4.3 Combat]]
 
 
 More to come soon...
